@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "EIDE.ARM.ARMCC5.InstallDirectory": "D:\\KEIL5\\ARM\\BIN\\armcc.exe",
+        "cortex-debug.variableUseNaturalFormat": false
+    },
+    "extensions": {}
+}
